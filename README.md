@@ -20,7 +20,7 @@ I also create content and share knowledge on **software development, SaaS, and t
   </a>
 
   <a href="https://instagram.com/heitorschuler_">
-    <img src="https://img.shields.io/badge/Instagram-schuler.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-heitorschuler_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/heitor-schuler/">
