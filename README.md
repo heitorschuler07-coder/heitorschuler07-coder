@@ -19,7 +19,7 @@ I also create content and share knowledge on **software development, SaaS, and t
     <img src="https://img.shields.io/badge/GitHub-Heitor%20Schuler-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/schuler.dev">
+  <a href="https://instagram.com/heitorschuler_">
     <img src="https://img.shields.io/badge/Instagram-schuler.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
