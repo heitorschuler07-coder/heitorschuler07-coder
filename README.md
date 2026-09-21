@@ -34,8 +34,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🧠 What I do
 
 -   🏗️ JavaScript
--   🐗 Java
--   🥄 Spring Boot
+-   ☕ Java
+-   🍃 Spring Boot
 -   ⚡ Python
 -   🧩 SQL
 
