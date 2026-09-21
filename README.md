@@ -12,12 +12,23 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🌐 Where to find me
 
+## 🌐 Where to find me
+
 <p align="left">
+
   <a href="https://github.com/heitorschuler07-coder">
-    <img src="https://img.shields.io/badge/https://github.com/heitorschuler07-coder-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Heitor%20Schuler-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href= [![Instagram](https://img.shields.io/badge/Instagram-schuler.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/schuler.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heitor%20Schuler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-schuler/)
+
+  <a href="https://instagram.com/schuler.dev">
+    <img src="https://img.shields.io/badge/Instagram-schuler.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/heitor-schuler/">
+    <img src="https://img.shields.io/badge/LinkedIn-Heitor%20Schuler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</p>
 
 ---
 
