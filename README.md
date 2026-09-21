@@ -10,7 +10,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## 🌐 Where to find me
 
 ## 🌐 Where to find me
 
